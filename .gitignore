@@ -1,0 +1,7 @@
+# Ignore temp files
+*.tmp 
+*.log 
+*.bak 
+# Ignore user-specific project files 
+*.user 
+*.suo 
